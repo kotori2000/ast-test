@@ -1,0 +1,24 @@
+{
+  "name": "@gerhardt/tsccss",
+  "version": "1.0.0",
+  "description": "a ast test project",
+  "main": "src/index.js",
+  "bin": {
+    "tsccss": "src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wangJianHao",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "globby": "^10.0.0",
+    "jscodeshift": "^0.14.0"
+  },
+  "devDependencies": {}
+}
